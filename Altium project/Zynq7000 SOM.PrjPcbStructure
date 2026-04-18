@@ -1,0 +1,11 @@
+Record=TopLevelDocument|FileName=1GB DDR3L Modules.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=1GB DDR3L Modules.SchDoc|FileName=Block diagram.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=1GB DDR3L Modules.SchDoc|FileName=Gigabit Ethernet.SchDoc|SheetNumber=9
+Record=NoMainPathDocument|SourceDocument=1GB DDR3L Modules.SchDoc|FileName=Mezzanine Connectors.SchDoc|SheetNumber=11
+Record=NoMainPathDocument|SourceDocument=1GB DDR3L Modules.SchDoc|FileName=Power_supplies.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=1GB DDR3L Modules.SchDoc|FileName=USB 2.0 High-Speed (OTG).SchDoc|SheetNumber=10
+Record=NoMainPathDocument|SourceDocument=1GB DDR3L Modules.SchDoc|FileName=Zynq config, JTAG, Debug.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=1GB DDR3L Modules.SchDoc|FileName=Zynq DDR Interface & Termination.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=1GB DDR3L Modules.SchDoc|FileName=Zynq power and decoupling.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=1GB DDR3L Modules.SchDoc|FileName=Zynq processing system (PS).SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=1GB DDR3L Modules.SchDoc|FileName=Zynq programmable logic (PL).SchDoc|SheetNumber=6
